@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Anvi Gautam</h1><h3 align="center">Aiming to harness the algorithm's unparalleled computational capabilities for solving complex problems.</h3><img align=”right” alt=”coding” width=”400” src=”https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966”>- 🌱 I’m currently learning **C++,Android app development**-
+<h1 align="center">Hi 👋, I'm Anvi Gautam</h1><h3 align="center">Aiming to harness the algorithm's unparalleled computational capabilities for solving complex problems.</h3><img align=”right” alt=”coding” width=”400” src=”https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif”>- 🌱 I’m currently learning **C++,Android app development**-
  👯 I’m looking to collaborate on **I'm on the lookout to collaborate with like-minded innovators on cutting-edge projects that promise to deliver immersive, transformative user experiences.**-
  📫 How to reach me **anvigautam19@gmail.com**- 
 ⚡ Fun fact **cannot code without coffee!!
